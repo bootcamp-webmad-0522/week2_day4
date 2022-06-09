@@ -1,0 +1,7 @@
+canvasApp.init('#app')
+// canvasApp.drawRectangle()
+// canvasApp.drawOutlinedRectangle()
+// canvasApp.drawRegularLines()
+// canvasApp.drawDashedLines()
+// canvasApp.drawText('Popino está malito de la tripa')
+canvasApp.drawArc()
